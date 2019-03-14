@@ -46,7 +46,7 @@ List *delete( int  i, List *L )
 
     if( i < 1 || i > *length(List *L))
     {
-        printf (the element doesn't exist );
+        printf ("the element doesn't exist" );
         return ;
     }
 
